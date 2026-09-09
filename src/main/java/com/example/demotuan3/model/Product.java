@@ -1,4 +1,4 @@
-package com.example.demotuan2.model;
+package com.example.demotuan3.model;
 import java.io.Serial;
 import java.io.Serializable;
 import java.math.BigDecimal;

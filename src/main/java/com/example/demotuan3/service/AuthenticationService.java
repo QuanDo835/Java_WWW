@@ -1,4 +1,4 @@
-package com.example.demotuan2.service;
+package com.example.demotuan3.service;
 import jakarta.enterprise.context.ApplicationScoped;
 @ApplicationScoped
 public class AuthenticationService {

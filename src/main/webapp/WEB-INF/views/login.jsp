@@ -32,6 +32,11 @@ initial-scale=1">
                required>
         <button type="submit">Đăng nhập</button>
     </form>
+
+    <p>
+        Số người đang online:
+        <strong>${applicationScope.activeUsersCount}</strong>
+    </p>
 </main>
 </body>
 </html>

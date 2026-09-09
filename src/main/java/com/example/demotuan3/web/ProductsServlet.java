@@ -1,6 +1,6 @@
-package com.example.demotuan2.web;
-import com.example.demotuan2.service.ProductCatalog;
-import com.example.demotuan2.session.UserSession;
+package com.example.demotuan3.web;
+import com.example.demotuan3.service.ProductCatalog;
+import com.example.demotuan3.session.UserSession;
 import jakarta.inject.Inject;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.annotation.WebServlet;

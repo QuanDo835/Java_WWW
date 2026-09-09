@@ -1,6 +1,6 @@
-package com.example.demotuan2.service;
-import com.example.demotuan2.model.Product;
-import com.example.demotuan2.model.CartItem;
+package com.example.demotuan3.service;
+import com.example.demotuan3.model.Product;
+import com.example.demotuan3.model.CartItem;
 import java.io.Serial;
 import java.io.Serializable;
 import java.math.BigDecimal;

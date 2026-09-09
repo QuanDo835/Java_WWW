@@ -1,9 +1,9 @@
-package com.example.demotuan2.service;
+package com.example.demotuan3.service;
 import jakarta.enterprise.context.ApplicationScoped;
 import java.math.BigDecimal;
 import java.util.List;
 import java.util.Optional;
-import com.example.demotuan2.model.Product;
+import com.example.demotuan3.model.Product;
 @ApplicationScoped
 public class ProductCatalog {
     private final List<Product> products = List.of(

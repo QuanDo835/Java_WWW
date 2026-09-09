@@ -1,5 +1,5 @@
-package com.example.demotuan2.session;
-import com.example.demotuan2.service.ShoppingCart;
+package com.example.demotuan3.session;
+import com.example.demotuan3.service.ShoppingCart;
 import jakarta.enterprise.context.SessionScoped;
 import jakarta.inject.Named;
 import java.io.Serial;
